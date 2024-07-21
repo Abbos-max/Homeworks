@@ -83,7 +83,7 @@ class Car:
         self._year = year
         self.__odometer = 0
 
-    # Public methods to access and modify private attributes
+
 
     def get_year(self):
         return self._year
